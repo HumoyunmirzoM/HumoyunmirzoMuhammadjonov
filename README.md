@@ -7,7 +7,7 @@ I'm a beginner Backend Developer
 I'm a beginner backend developer. I'm interested in video games and its code system
 
 * 🌍  I'm based in Uzbekistan
-* ✉️  You can contact me at [aliyevanvar055@gmail.com](mailto:aliyevanvar055@gmail.com)
+* ✉️  You can contact me at [humoyun.muhammadjonov08@gmail.com](mailto:humoyun.muhammadjonov08@gmail.com)
 * 🧠  I'm learning Python
 * ⚡  I'm also an eSports player and love to play games.
 
